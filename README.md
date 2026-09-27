@@ -1,4 +1,4 @@
-# Trader Behavior Analysis — Market Sentiment & Performance
+# Trader Behavior Analysis on Market Sentiment
 
 ## Overview
 This project analyzes how trader performance (profitability, risk, volume, leverage) aligns with overall market sentiment (Fear vs Greed).  
